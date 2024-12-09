@@ -14,3 +14,5 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div>
+
+🚀 Apaixonado por tecnologia e aprendizado contínuo. Explorando o mundo do desenvolvimento front-end, React e integração de APIs. 
